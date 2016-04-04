@@ -4,9 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, maximum-scale=1">
 
-<title>Homepage</title>
-<link rel="icon" href="favicon.png" type="image/png">
-<link rel="shortcut icon" href="favicon.ico" type="img/x-icon">
+<title>Diameter</title>
 
 <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,800italic,700italic,600italic,400italic,300italic,800,700,600' rel='stylesheet' type='text/css'>
@@ -59,7 +57,7 @@
 
     <!-- __________________________________________A B O U T S - U S ______________________________________________________-->
     
-    <section class="main-section team" id="about"><!--main-section team-start-->
+    <section class="main-section team" id="about" style="background: #EECD89;"><!--main-section team-start-->
         <div class="container">
             <h2 class="wow fadeInDown delay-03s">ABOUT</h2>
             <div class="margin-bar-dark"></div>
