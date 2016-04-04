@@ -194,9 +194,11 @@ p{
 	padding:90px 0 110px;
     background: #3D3242;
 }
+/* Team
+---------------------------------*/
 .team{
 	
-	background: #EECD89;
+    background: #EECD86;
 }
 
 /* Services
@@ -403,49 +405,7 @@ img {
     box-shadow: 0px 0px 0px #000; 
 }
 
-/*
-.social-link{
-	padding:35px 0;
-	margin:0 0 0 68px;
-	display:block;
-	overflow:hidden;
-	list-style:none;
-}
-.social-link li{
-	float:left;
-	margin-right:8px;
-}
-.social-link li a{
-	display:block;
-	width:50px;
-	height:50px;
-	text-align:center;
-	line-height:50px;
-	font-size:25px;
-	color:#fff;
-	background:#222222;
-	border-radius:50%;
-	transition:all 0.3s ease-in-out;
-}
-.social-link li a:hover, .social-link li a:focus{
-	text-decoration:none;
-}
-.twitter a:hover {
-	background: #55acee;
-}
-.facebook a:hover {
-	background: #3b5998;
-}
-.pinterest a:hover {
-	background: #cb2026;
-}
-.gplus a:hover {
-	background: #dd4b39;
-}
-.dribbble a:hover {
-	background: #ea4c89;
-}
-*/
+
 .form{
 	margin:0 66px 0 30px;
 }

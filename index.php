@@ -44,7 +44,7 @@
 
 <!-- _____________________________________________________N A V B A R_________________________________________-->
     
-<nav class="main-nav-outer wow fadeInDown delay-04s" id="test">
+<nav class="main-nav-outer" id="test">
 	<div class="container">
         <ul class="main-nav">
             <li><a href="#about">About Us</a></li>
@@ -65,7 +65,7 @@
             <div class="margin-bar-dark"></div>
             <div class="team-leader-block clearfix">
                 
-                <p class="custom-aboutus-text wow fadeInLeft delay-04s">Diameter is a team of developers founded on creativity, built from experience and designed to engage. We are a complete Designing and Development Team offering our partners individual service starting from  conceptuation and ideation to complete project development, execution, managment, result analysis and maintainance. Apart from that we provide amazing graphic designing solutions which includes 3D model development, designing of logos, posters, cover pages, visiting cards and banners. 
+                <p class="custom-aboutus-text wow fadeInLeft delay-03s">Diameter is a team of developers founded on creativity, built from experience and designed to engage. We are a complete Designing and Development Team offering our partners individual service starting from  conceptuation and ideation to complete project development, execution, managment, result analysis and maintainance. Apart from that we provide amazing graphic designing solutions which includes 3D model development, designing of logos, posters, cover pages, visiting cards and banners. 
                 
             </div>
         </div>
@@ -184,7 +184,7 @@
        </div> 
         
 	</div>
-    <div class="portfolioContainer wow fadeInUp delay-04s">
+    <div class="portfolioContainer wow fadeInUp delay-03s">
         <div class=" Portfolio-box printdesign">
             <a href="#"><img src="img/pic_7.png" alt=""></a>	
             <h6>Fest Poster</h6>
@@ -227,12 +227,12 @@
     
     <section class="main-section" id="contact"><!--main-section-start-->
         <div class="container">
-            <h3 class="contact-header wow fadeInDown delay-03s">CONTACT</h3>
+            <h3 class="contact-header wow fadeInDown delay-02s">CONTACT</h3>
             <div class="margin-bar-light-contact"></div>
             <div style="height: 60px;"></div>
             <div class="col-md-6 col-sm-12">
                 <div class="row">
-                    <div class="col-md-12 col-sm-12 wow fadeInLeft delay-04s">
+                    <div class="col-md-12 col-sm-12 wow fadeInLeft delay-03s">
                         <p id="ceo-name">Diameter</p>
                         <p class="custom-text">3115, First Floor,<br>Sector 27D,<br>Chandigarh,<br>160019</p>
                         <p class="custom-text">diameterstudios@gmail.com</p>
@@ -240,13 +240,13 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-md-12 col-sm-12 wow fadeInUp delay-04s">
+                    <div class="col-md-12 col-sm-12 wow fadeInUp delay-03s">
                         <div style="height: 30px;"></div>
                         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3429.837820675876!2d76.79150281465398!3d30.72295939315566!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390fed1d410a780b%3A0xf0d9f07d04df924c!2sResources+Events+%26+Promotions!5e0!3m2!1sen!2sin!4v1454148521177" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
                     </div>
                 </div>
             </div>
-            <div class="col-md-6 col-sm-12 wow fadeInUp delay-04s">
+            <div class="col-md-6 col-sm-12 wow fadeInUp delay-02s">
                 <form action="" method="POST" id="registeration_form">
                     
                     <div class="row" style="padding-top: 10px;">
@@ -314,24 +314,24 @@
     <section class="container-fluid footer">
         <div class="col-md-4 col-sm-12 footer-follower">
             <div style="height: 40px;"></div>
-            <h2 class="wow fadeInLeft delay-06s">Follow us on</h2>
+            <h2 class="wow fadeInLeft delay-03s">Follow us on</h2>
             <div style="height: 20px;"></div>
-            <a href="hhtp://facebook.com" class="wow fadeInLeft delay-04s">Facebook</a>
-            <a href="hhtp://facebook.com" class="wow fadeInLeft delay-05s">Google+</a>
-            <a href="hhtp://facebook.com" class="wow fadeInLeft delay-06s">Twitter</a>
+            <a href="hhtp://facebook.com" class="wow fadeInLeft delay-02s">Facebook</a>
+            <a href="hhtp://facebook.com" class="wow fadeInLeft delay-03s">Google+</a>
+            <a href="hhtp://facebook.com" class="wow fadeInLeft delay-03s">Twitter</a>
         </div>
         <div class="col-md-4 col-sm-12 footer-logo">
             <div style="height: 110px;"></div>
-            <div class="bars-logo-top wow fadeInDown delay-06s"></div>
-            <h5 class="wow fadeIn delay-07s">DIAMETER</h5>
-            <div class="bars-logo-bottom wow fadeInUp delay-06s"></div>
+            <div class="bars-logo-top wow fadeInDown delay-04s"></div>
+            <h5 class="wow fadeIn delay-06s">DIAMETER</h5>
+            <div class="bars-logo-bottom wow fadeInUp delay-04s"></div>
             <div style="height: 25px;"></div>
             <p class="animated fadeInUp delay-06s tagline">A Good Design Doesn't Date</p>
             <div style="height: 20px;"></div>
         </div>
         <div class="col-md-4 col-sm-12 footer-contact-holder">
             <div style="height: 40px;"></div>
-            <div class="wow fadeInLeft delay-04s">
+            <div class="wow fadeInLeft delay-02s">
                 <p><strong>Diameter</strong></p>
                 <p>3115, First Floor,<br>Sector 27D,<br>Chandigarh,<br>160019</p>
                 <p>diameterstudios@gmail.com</p>
@@ -341,16 +341,7 @@
         </div>
     </section>
     
-    <!--
-    <footer class="footer">
-        <div class="container">
-            <div class="footer-logo"><a href="#"><img src="img/footer-logo.png" alt=""></a></div>
-            <span class="copyright">Copyright © 2015 | <a href="http://bootstraptaste.com/">Bootstrap Themes</a> by BootstrapTaste</span>
-        </div>
-        
-    </footer>-->
-
-
+    
 <script type="text/javascript">
     $(document).ready(function(e) {
         $('#test').scrollToFixed();
@@ -384,12 +375,6 @@
 			$('html, body').stop().animate({
 				scrollTop: $($anchor.attr('href')).offset().top - 102
 			}, 1500,'easeInOutExpo');
-			/*
-			if you don't want to use the easing effects:
-			$('html, body').stop().animate({
-				scrollTop: $($anchor.attr('href')).offset().top
-			}, 1000);
-			*/
 			event.preventDefault();
 		});
 	})
